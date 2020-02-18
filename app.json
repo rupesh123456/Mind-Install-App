@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Mind Install",
+    "slug": "mindinstall",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Every engineer makes life of human being somewhat easier, we want to be one of them. Our organisation 'Mind Install' which came to existence from a hackathon is now working on various projects related to web development, app development and we are putting our efforts to improve ourselves every single day. Our currently ongoing project is 'Hal- Kisano ki samasya ka hal' which is totally dedicated to the hard working farmers of our country, so that they can enhance their farming techniques and can earn what they deserve. With a good hard working and determined team, we are going to work on many projects in the upcoming future. Our main goal is to work on an idea of our team, a kind of startup................"
+  }
+}
